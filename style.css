@@ -678,7 +678,7 @@ ul {
   .contact form button,
   .contact form input,
   .contact form textarea {
-    width: 90%;
+    width: 80%;
   }
 }
 
@@ -749,6 +749,7 @@ ul {
   margin: 15px 0 10px 0;
   font-size: 1rem;
   font-weight: 300;
+  text-align: center;
 }
 
 .wave {
@@ -884,6 +885,6 @@ ul {
   }
 
   .footer {
-    width: 78%;
+    width: 73.5%;
   }
 }
