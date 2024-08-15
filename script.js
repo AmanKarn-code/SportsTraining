@@ -11,3 +11,6 @@
      hamburger.classList.remove("active");
      navLinks.classList.remove("active");
  }));
+ window.addEventListener('load', function() {
+    document.querySelector('.loader').style.display = 'none';
+});
